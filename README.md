@@ -5,9 +5,11 @@ I enjoy music and spending time with friends
 ### Table of contents ###
 
 **Files coming soon**
-' '
 
-* Favorite Color is Purple *
+
+*Favorite Color is Purple*
+
+
 Favortie Fruits
 1. Watermelon
 2. Mango
